@@ -1,0 +1,220 @@
+
+
+body{background-size: cover;
+	/*background-image: url("Imagenes/fondo2.jpg");*/
+	/*background: linear-gradient(90deg, #8a9192, #ffffff);*/
+	opacity: 0.8;
+	width: 100%;
+		
+	
+}
+
+
+.volveralapaginaprincipal{
+	margin-top: 33px;
+	margin-bottom: 100px;
+	width: 350px;
+	height: 25px;
+	background-color: rgb(214, 140, 192);
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+}
+
+
+#tablabody{background-size: cover;
+	background-image: url("Imagenes/fondo2.jpg");
+	/*background: linear-gradient(90deg, #8a9192, #ffffff);*/
+	opacity: 0.8;
+			
+}
+
+.table{
+	color:seashell
+}
+
+header {
+
+	margin-top: 0px;
+	background-color: red;
+
+	width: 100%;
+	height: 100px;
+	margin-bottom: 10px;
+
+	background-image: url("Imagenes/barra.png");
+	background-repeat: no-repeat;
+	background-position: center;
+
+	
+	}
+
+	#tabladeposiciones {
+	
+	margin-top: 0px;
+	background-color: black;
+
+	width: 100%;
+	height: 100px;
+	margin-bottom: 10px;
+
+	background-image: url("Imagenes/tabla.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+
+	
+	}
+
+	header h1 {
+		margin-top: 11px;
+		font-family: Arial, Helvetica, sans-serif;
+		color: aliceblue;
+	}
+
+	header p {
+		color: #ffffff;
+
+	}
+
+
+	aside {
+	
+		padding-left: 15px;
+		padding-right: 15px;
+		margin-left: 15px;
+		
+		float: right;
+		font-style: italic;
+		background-color: rgb(15, 10, 255);
+		color:rgb(241, 243, 240);
+		/*position: fixed;*/
+		
+	}
+	
+	.general {
+	
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		flex-wrap: wrap;
+		background-color: rgb(255, 255, 255);
+	}
+
+	.Juegos1{
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		flex-wrap: wrap;
+		background-color: rgb(204, 229, 233);
+	}
+	.Juegos2{
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		flex-wrap: wrap;
+		background-color: rgb(235, 242, 243);
+	}
+
+	.Juegos3{
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		flex-wrap: wrap;
+		background-color: rgb(204, 229, 233);
+	}
+
+	.Juegos4{
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		flex-wrap: wrap;
+		background-color: rgb(235, 242, 243);
+	}
+	
+	.tabla_general {
+	
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+		flex-wrap: wrap;
+	}
+
+.vertabladeposiciones { 
+	margin-top: 20px;
+	width: 200px;
+	height: 25px;
+	background-color: rgb(241, 243, 240);
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+}
+
+
+.index { 
+	margin-top: 0px;
+	width: 200px;
+	height: 25px;
+	background-color: rgb(206, 137, 163);
+	border-radius: 4px;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+}
+
+.juegos{
+	width: 960px;
+	height: 600px;
+
+	background-color:#ffffff;
+	
+	font-family:Calibri;
+	/*border: 5px solid #283227;*/
+	border-color: gray;
+	margin-right: 0px;
+	margin-left: 100px;
+	justify-content: center;
+	
+	
+}
+
+
+#j1 {float: left;}
+
+#j2{float: left;}
+
+#j3 {float: left;}
+
+#j4{float: left;}
+
+#j5{float: left;}
+
+#j6{float: left;}
+
+.titulo{
+	color: #ffffff;
+}
+
+footer {
+	
+	width: 100%;
+	height: 60px;
+	background-color: darkgray;
+	text-align: center;
+	bottom: 0px;
+	
+}
+#fijo{
+	position: fixed;
+}
+footer h4 {
+	font-size: 17px;
+	text-align: end;
+	align-items: center;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	margin-right: 20px;
+}
